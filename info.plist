@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>znvy@xrivafwboret.pbz</string>
+	<key>contactName</key>
+	<string>Kevin Sjöberg</string>
+	<key>description</key>
+	<string>Support for the &lt;a href="https://odin-lang.org"&gt;Odin&lt;/a&gt; programming language.</string>
+	<key>name</key>
+	<string>Odin</string>
+	<key>uuid</key>
+	<string>BC8289A1-BEAB-4B97-BD30-26542AC96A7A</string>
+</dict>
+</plist>
