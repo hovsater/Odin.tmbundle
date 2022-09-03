@@ -11,7 +11,7 @@ require "#{ENV["TM_SUPPORT_PATH"]}/lib/tm/executor"
 
 TextMate.save_if_untitled('odin')
 
-TextMate::Executor.run(e_sh(ENV['TM_ODIN'] || 'odin'), 'run', ENV['TM_FILEPATH'])
+TextMate::Executor.run(e_sh(ENV['TM_ODIN'] || 'odin'), 'run', ENV['TM_FILEPATH'], '-file')
 </string>
 	<key>input</key>
 	<string>document</string>
